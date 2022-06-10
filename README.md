@@ -1,1 +1,3 @@
-# codewars-ruby
+# Codewars: Ruby
+Repository for Ruby codewars challenges.
+
