@@ -1,4 +1,5 @@
 require "./lib/dna_to_rna"
+require "../codewars-testing-framework/framework"
 
 describe "Solution" do
   it "Fixed tests" do
